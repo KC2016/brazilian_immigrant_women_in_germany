@@ -1,4 +1,4 @@
-# Brazilian Women immigrants in Germany
+# Brazilian women immigrants in Germany
 Analysis of data on Brazilian women in Germany, in partnership with Ligia Fascioni.
 
 
