@@ -1,5 +1,4 @@
-# Brazilian Immigrant Women in Germany:
-## Descriptive Analysis and Data Visualization
+# Brazilian Immigrant Women in Germany: Descriptive Analysis and Data Visualization
 
 Welcome to the data analysis project focused on Brazilian immigrant women in Germany. This project delves into the profiles, preferences, and services desired and offered by this unique demographic. In collaboration with Ligia Fascioni, a UX designer, I present a comprehensive examination based on a dataset derived from a survey conducted between 3/12/2024 and 12/12/2024.
 
