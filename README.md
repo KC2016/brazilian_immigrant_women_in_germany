@@ -1,51 +1,41 @@
-# Brazilian immigrant women in Germany
-Descriptive analysis and data visualization about Brazilian women in Germany, classification of services desired and offered, in cooperation with Ligia Fascioni (UX design).
+# Brazilian Immigrant Women in Germany: Descriptive Analysis and Data Visualization
 
-![dashboard1](images/dashboard1.png)
-![dashboard2](images/dashboard2.png)
+Welcome to the data analysis project focused on Brazilian immigrant women in Germany. This project delves into the profiles, preferences, and services desired and offered by this unique demographic. In collaboration with Ligia Fascioni, a UX designer, we present a comprehensive examination based on a dataset derived from a survey conducted between 3/12/2024 and 12/12/2024.
 
-### The dataset
-The dataset come up from a close reading and classification of 156 answers from a survey with 14 questions done using Google form and spread out by posts in LinkedIn, messages in Whatsapp groups and from organizations of related work between 3/12/2024 and 12/12/2024.
+
+
+[![dashboard1](images/dashboard1.png 'Dashboar1')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard1.png)
+
+[![dashboard2](images/dashboard2.png 'Dashboar2')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard2.png)
 
 ### Objectives
-We wanted to find out whether the services offered by these women could meet any demand for the desired services. Therefore, we assessed the profile of these women, as well as desired and offered services.
 
-It is a descriptive analysis considering only the sample of 156 people. We are aware that this sample tends to be biased, as some groups that responded to the survey were specific to women in the IT sector. Therefore, a wider survey could avoid bias.
+My primary goal is to understand the intersection between the services offered by these women and the demand for desired services. Through a meticulous analysis of 156 survey responses, we provide insights into the characteristics of these women and the spectrum of services they seek and provide.
 
-### Data manipulation
-- data cleaning
-- data wrangling
-- data classification
-- data visulization and dasboards
+
+### The dataset
+The dataset was curated through a meticulous reading and classification of responses to a 14-question survey distributed via Google Form. Responses were collected through LinkedIn posts, WhatsApp groups, and collaboration with relevant organizations.
+
+### Methodology
+Our analysis involves data cleaning, wrangling, and classification, with a particular focus on the challenges posed by open-ended responses. We utilized tools such as Google Sheets, Excel, and Python (Pandas and Jupyter Notebook) for efficient data manipulation and visualization.
 
 ### Challenges
-The data classification was challenging, mainly in the services. The question were open to the people fill with natural text being allowed to keep blank or to write a long text. Thus, several people cited different services, but also told stories and used this space to vent. It also opened a room to have answer for previous questions in the wrong cell; I disregarded these answers in this analysis. Thus, a manual classification was needed.
+Classifying services proved to be a challenging task, given the variety of responses. We encountered instances of detailed stories and venting, requiring manual classification. Despite the challenges, the insights gained are valuable for understanding the nuances of service preferences.
 
 ### Tools used
-- Google sheets and Google docs
+- Google Sheets and Google Docs
 - Excel
 - Python, Pandas, Jupyter Notebook
 
-Although Python and Pandas were also used to do cleaning, Excel was demonstred to be faster because the dataset is small.
-The data visualization and dashboards were done using Excel.
-Google sheets and Google docs were used to document and share the development of the analysis with tthe team.
+Through a combination of these tools, we were able to streamline the analysis process and present our findings visually using Excel for data visualization and dashboards.
 
+### Key results
+As expected,  m a majority of these women relocated to be with their partners or spouses, reflecting the significant role of familial ties in migration decisions.
 
----------------
-### Links
+The majority of respondents made the move to Germany within the past year, indicating a recent influx of Brazilian women to the country.
 
-[responses](https://docs.google.com/spreadsheets/d/1BWJpRJAhvpp_h46c2O1IVsDSzFk4MRmAwAhakDS03qM/edit#gid=1398339930
-)
+Berlin stands out as the preferred city, hosting the largest population of Brazilian women, closely followed by Hamburg.
 
-[bwig_results](https://docs.google.com/spreadsheets/d/1HAYNOSpPkHpyG4KoHGMbrcd8osPaD_4i3w7cj-Nkv1o/edit#gid=0)
+Unsurprisingly, language emerges as a significant barrier, with many respondents having elementary or basic proficiency in German.
 
-[documentation](https://docs.google.com/document/d/1pFPFwXSsGyhxW1wD-hsiCPkFhFufJkmlv09mXLt09OA/edit)
-
-
-[bwig.ipynb](https://colab.research.google.com/drive/12-I1FXsvzliWlKIhXba_P5AtBTWcsT9M#scrollTo=d2_iLj6ZuZNN)
-
-[cleaned_df1.ipynb](https://colab.research.google.com/drive/12-I1FXsvzliWlKIhXba_P5AtBTWcsT9M#scrollTo=d2_iLj6ZuZNN)
-
-[services.ipynb](https://colab.research.google.com/drive/1ND7iiAmNBWITSli_cwyOgZQDk7Z9mj6D#scrollTo=kl1BHEFgiaHa)
-
-Descriptive analysis about Brazilian women immigrants in Germany, classification of services desired and  offered.
+Click on the dashboard images above to explore more about these women and uncover insights into the services they desire and offer. Gain a deeper understanding of their stories and challenges.
