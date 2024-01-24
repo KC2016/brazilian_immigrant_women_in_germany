@@ -1,6 +1,12 @@
 # Datasets
 data
 
+# Images
+images
+
+# references
+references
+
 # Visual Studio Code
 .DS_Store
 
