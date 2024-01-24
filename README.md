@@ -1,4 +1,4 @@
-# Brazilian women immigrants in Germany
+# Brazilian immigrant women in Germany
 Descriptive analysis and data visualization about Brazilian women in Germany, classification of services desired and offered, in cooperation with Ligia Fascioni (UX design).
 
 ### The dataset
