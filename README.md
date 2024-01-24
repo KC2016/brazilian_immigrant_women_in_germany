@@ -43,11 +43,11 @@ Through a combination of these tools, I was able to streamline the analysis proc
 
 
 #### About the services
-> Health and aesthetics emerge as the top preferences among the desired service categories, while jobs & business and social services stand out as the most relevant in the offerings.
+> **Health and aesthetics** emerge as the top preferences among the **desired service categories**, while **jobs & business and social services** stand out as the most relevant in **the offerings**.
 
-> The most sought-after category is health, which interestingly isn't prominently featured among the available services. However, social services and aesthetics, both highly desired, are well-represented in the offerings.
+> **The most sought-after category is health**, which interestingly isn't prominently featured among the available services. However, social services and aesthetics, both highly desired, are well-represented in the offerings.
 
-> It's notable that many women highlight a lack of certain attributes in the available services in Germany. They express a need for services that are empathetic, connected, and kind (in Portuguese). Additionally, there is a strong demand for high-quality, accessible online, child-friendly, extended-hour, personalized, and modern services, indicating areas where the current offerings may fall short of meeting these preferences
+> It's notable that many women highlight a lack of certain attributes in the available services in Germany. **They express a need for services that are empathetic, connected, and kind (in Portuguese)**. Additionally, there is a strong demand for **high-quality, accessible online, child-friendly, extended-hour, personalized, and modern services**, indicating areas where the current offerings may fall short of meeting these preferences.
 
 ### Conclusions
 
