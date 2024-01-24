@@ -56,7 +56,7 @@ The findings underscore the potential for a dedicated tool to facilitate service
 
 ## Explore the dashboards:
 
-[![dashboard1](images/dashboard1_v1.png 'Dashboar1_v1')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard1_v1.png)
+[![dashboard1](images/dashboard1.png 'Dashboar1')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard1.png)
 
 [![dashboard2](images/dashboard2.png 'Dashboar2')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard2.png)
 
