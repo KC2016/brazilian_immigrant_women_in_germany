@@ -4,6 +4,9 @@ data
 # references
 references
 
+# backup
+bkp
+
 # Visual Studio Code
 .DS_Store
 
