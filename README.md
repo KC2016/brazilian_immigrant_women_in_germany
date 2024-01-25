@@ -5,7 +5,6 @@ Welcome to the data analysis project focused on Brazilian immigrant women in Ger
 
 
 ### Purpose
-
 The primary objective of this analysis is to delve into the preferences and requirements of Brazilian women in Germany concerning services. By categorizing and comparing the desired and offered services, our aim is to identify potential gaps and alignments. The ultimate goal is to assess the viability of creating a dedicated tool, such as an app or portal, that could facilitate the exchange of services among this community.
 
 
