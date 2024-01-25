@@ -30,13 +30,13 @@ Through a combination of these tools, I was able to streamline the analysis proc
 ### Main outcomes
 
 #### About the women
-> As expected,  the majority of these women **relocated to be with their partners or spouses**, reflecting the significant role of familial ties in migration decisions.
+> As expected,  the majority of these women **relocated to be with their partners or spouses (51%)**, reflecting the significant role of familial ties in migration decisions.
 
 >The majority of respondents **made the move to Germany within the past year**, indicating a recent influx of Brazilian women to the country.
 
-> **Berlin** stands out as the preferred city, hosting the largest population of Brazilian women, closely followed by **Hamburg**.
+> **Berlin (56%) stands out as the preferred city**, hosting the largest population of Brazilian women, followed by **Hamburg (15%)**.
 
-> Unsurprisingly, language emerges as a significant barrier, with many respondents having **elementary or basic proficiency in German**.
+> Unsurprisingly, language emerges as a significant barrier, with many respondents having **elementary or basic proficiency in German (A1,A2 and B1)**.
 
 > Approximately 46% of them **had a previous residence in a country other than Germany**.
 
