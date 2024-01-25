@@ -40,7 +40,7 @@ Through a combination of these tools, I was able to streamline the analysis proc
 
 > Approximately 46% of them **had a previous residence in a country other than Germany**.
 
-> Roughly 62% **exclusively hold Brazilian citizenship** and do not possess European citizenship.
+> Roughly 62% exclusively hold Brazilian citizenship and **do not possess European citizenship**.
 
 
 #### About the services
