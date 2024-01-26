@@ -1,0 +1,40 @@
+SERVICE CATEGORIES
+
+HEALTH : doctors, physiotherapists, medical care, personal trainers, preventive medicine
+
+AESTHETICS : beauty and personal care services
+
+RESTAURANTS : healthy food, Brazilian food, in self-service format, Brazilian food, rental party rooms
+
+BUREAUCRACY : general support, income taxes, driver license
+
+SOCIAL SERVICES : lawyer, integration activities,  newly arrived, immigration, victims of domestic violence, translation in essential services
+
+MENTAL HEALTH : psychology, psychiatry, wellness
+
+HOME SERVICES : realtor, cleaning services, property maintenance services (plumbers, electricians, painters)
+
+DELIVERY : pharmacy, Brazilian food, furniture assembly and transportation
+
+KIDS RELATED  : support with the school system, to find kindergarten vacancies and  to mothers in general, activities for children
+
+PETS : pet grooming salon, pets care
+
+IMPORT : Brazilian products and books
+
+SOCIAL EVENTS : events about Brazilian culture
+
+ARTS&CULTURE : cultural centers, cultural workshops, free music  concerts in parks and squares, artistic activities, free courses, education, exchange programs, dance classes
+
+BOOKING : support to booking appointments
+SPIRITUALITY : spirituality
+
+EDUCATION: modern German school
+
+JOB&BUSINESS: professional outplacement, support for entrepreneurship, digital marketing, corporate communication, advertisement, data analytics, digital marketing, business consulting, illustrator, photography, career coach, life coach, translation
+
+HOME SERVICES: tidying up
+
+VOLUNTEER : not specified
+
+FOOD : baby food, bakery
