@@ -45,13 +45,17 @@ Through a combination of these tools, I was able to streamline the analysis proc
 #### About the services
 > **Health and aesthetics** emerge as the top preferences among the **desired service categories**, while **jobs & business and social services** stand out as the most relevant in **the offerings**.
 
+> Interestingly, we observed that there were significantly **more desired services (160) than offered services (66)**. The dataset revealed a **smaller volume of offered services**, which suggests that creating a platform solely for exchanging services among Brazilian women might face challenges due to the limited supply.
+
 > **The most sought-after category is health**, which interestingly isn't prominently featured among the available services. However, **social services and aesthetics, both highly desired, are well-represented in the offerings**.
 
 > It's notable that many women highlight a lack of certain attributes in the available services in Germany. **They express a need for services that are empathetic, connected, and kind (in Portuguese)**. Additionally, there is a strong demand for **high-quality, accessible online, child-friendly, extended-hour, personalized, and modern services**, indicating areas where the current offerings may fall short of meeting these preferences.
 
 ### Conclusions
 
-The findings underscore the potential for a dedicated tool to facilitate service exchange among Brazilian women in Germany. Addressing language barriers, focusing on high-demand categories like health and aesthetics, and acknowledging the unique attributes desired by the community could contribute to the success of such a platform. Additionally, understanding the demographic composition, including previous foreign residences and citizenship status, provides valuable context for designing and implementing the tool effectively.
+This comprehensive analysis, grounded in a survey with 156 responses, highlights promising prospects for a dedicated tool facilitating service exchange among Brazilian women in Germany. Key considerations involve overcoming language barriers and tailoring services to match high-demand categories such as health and aesthetics. Incorporating unique attributes desired by the community is pivotal for the success of the platform.
+
+While acknowledging the value of understanding demographic composition, including previous foreign residences, the focus shifts towards the observed disparity between desired and offered services. The analysis suggests that the careful alignment of services with community preferences is paramount, and strategies should be tailored to meet the specific needs of Brazilian women in Germany.
 
 ## Explore the dashboards:
 
