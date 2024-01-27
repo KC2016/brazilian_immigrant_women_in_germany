@@ -1,41 +1,39 @@
 SERVICE CATEGORIES
 
-HEALTH : doctors, physiotherapists, medical care, personal trainers, preventive medicine
+1- HEALTH : doctors, physiotherapists, medical care, personal trainers, preventive medicine
 
-AESTHETICS : beauty and personal care services
+2- AESTHETICS : beauty and personal care services, image and personal style consultancy
 
-RESTAURANTS : healthy food, Brazilian food, in self-service format, Brazilian food, rental party rooms
+3- RESTAURANTS : healthy food, Brazilian food, in self-service format, Brazilian food, rental party rooms
 
-BUREAUCRACY : general support, income taxes, driver license
+4- BUREAUCRACY : general support, income taxes, driver license
 
-SOCIAL SERVICES : lawyer, integration activities,  newly arrived, immigration, victims of domestic violence, translation in essential services
+5- SOCIAL SERVICES : lawyer, integration activities,  newly arrived, immigration, victims of domestic violence, translation in essential services
 
-MENTAL HEALTH : psychology, psychiatry, wellness
+6- MENTAL HEALTH : psychology, psychiatry, wellness
 
-HOME SERVICES : realtor, cleaning services, property maintenance services (plumbers, electricians, painters)
+7- HOME SERVICES : realtor, cleaning services, property maintenance services (plumbers, electricians, painters), tidying up
 
-DELIVERY : pharmacy, Brazilian food, furniture assembly and transportation
+8- DELIVERY : pharmacy, Brazilian food, furniture assembly and transportation
 
-KIDS RELATED  : support with the school system, to find kindergarten vacancies and  to mothers in general, activities for children
+9- KIDS RELATED  : support with the school system, to find kindergarten vacancies and  to mothers in general, activities for children
 
-PETS : pet grooming salon, pets care
+10- PETS : pet grooming salon, pets care
 
-IMPORT : Brazilian products and books
+11- IMPORT : Brazilian products and books
 
-SOCIAL EVENTS : events about Brazilian culture
+12- SOCIAL EVENTS : events about Brazilian culture
 
-ARTS&CULTURE : cultural centers, cultural workshops, free music  concerts in parks and squares, artistic activities, free courses, education, exchange programs, dance classes
+13- ARTS&CULTURE : cultural centers, cultural workshops, free music  concerts in parks and squares, artistic activities, free courses, education, exchange programs, dance classes
 
-BOOKING : support to booking appointments
+14- BOOKING : support to booking appointments
 
-SPIRITUALITY : spirituality
+15-  SPIRITUALITY : spirituality
 
-EDUCATION: modern German school
+16- EDUCATION: modern German school
 
-JOB&BUSINESS: professional outplacement, support for entrepreneurship, digital marketing, corporate communication, advertisement, data analytics, digital marketing, business consulting, illustrator, photography, career coach, life coach, translation
+17- JOB&BUSINESS: professional outplacement, support for entrepreneurship, digital marketing, corporate communication, advertisement, data analytics, digital marketing, business consulting, illustrator, photography, career coach, life coach, translation
 
-HOME SERVICES: tidying up
+18- VOLUNTEER : not specified
 
-VOLUNTEER : not specified
-
-FOOD : baby food, bakery
+19- FOOD : baby food, bakery
