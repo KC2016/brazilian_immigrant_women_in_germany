@@ -57,10 +57,10 @@ This comprehensive analysis, grounded in a survey with 156 responses, highlights
 
 While acknowledging the value of understanding demographic composition, including previous foreign residences, the focus shifts towards the observed disparity between desired and offered services. The analysis suggests that the careful alignment of services with community preferences is paramount, and strategies should be tailored to meet the specific needs of Brazilian women in Germany.
 
-## Explore the dashboards:
+## Dashboards:
 
-[![dashboard1](images/dashboard1.png 'Dashboar1')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard1.png)
+[![dashboard1](images/dashboard1_v1.png 'Dashboard1')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard1_v1.png)
 
-[![dashboard2](images/dashboard2.png 'Dashboar2')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard2.png)
+[![dashboard2](images/dashboard2_v1.png 'Dashboard2')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard2_v1.png)
 
-Click on the dashboard images above to explore more about these women and uncover insights into the services they desire and offer. Gain a deeper understanding of their stories and challenges.
+Explore more about these women and uncover insights into the services they desire and offer. Gain a deeper understanding of their stories and challenges.
