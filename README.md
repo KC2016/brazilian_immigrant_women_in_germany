@@ -59,8 +59,8 @@ While acknowledging the value of understanding demographic composition, includin
 
 ## Dashboards:
 
-[![dashboard1](images/dashboard1_v1.png 'Dashboard1')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard1_v1.png)
+[![dashboard1](images/dashboard1_v2.png 'Dashboard1')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard1_v2.png)
 
-[![dashboard2](images/dashboard2_v1_1.png 'Dashboard2')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard2_v1_1.png)
+[![dashboard2](images/dashboard2_v2.png 'Dashboard2')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard2_v2.png)
 
 Explore more about these women and uncover insights into the services they desire and offer. Gain a deeper understanding of their stories and challenges.
