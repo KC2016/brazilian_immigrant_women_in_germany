@@ -6,7 +6,7 @@ SERVICE CATEGORIES
 
 3- RESTAURANTS : healthy food, Brazilian food, in self-service format, Brazilian food, rental party rooms
 
-4- BUREAUCRACY : general support, income taxes, driver license
+4- BUREAUCRACY : general support, income taxes, driver's license
 
 5- SOCIAL SERVICES : lawyer, integration activities,  newly arrived, immigration, victims of domestic violence, translation in essential services
 
@@ -34,6 +34,6 @@ SERVICE CATEGORIES
 
 17- JOB&BUSINESS: professional outplacement, support for entrepreneurship, digital marketing, corporate communication, advertisement, data analytics, digital marketing, business consulting, illustrator, photography, career coach, life coach, translation
 
-18- VOLUNTEER : not specified
+18- VOLUNTEERING : not specified
 
 19- FOOD : baby food, bakery
