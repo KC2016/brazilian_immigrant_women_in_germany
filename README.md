@@ -51,11 +51,18 @@ Through a combination of these tools, I was able to streamline the analysis proc
 
 > It's notable that many women highlight a lack of certain attributes in the available services in Germany. **They express a need for services that are empathetic, connected, and kind (in Portuguese)**. Additionally, there is a strong demand for **high-quality, accessible online, child-friendly, extended-hour, personalized, and modern services**, indicating areas where the current offerings may fall short of meeting these preferences.
 
+### About an app for services exchanges
+Unfortunately, we did not identify a sufficient supply of services to meet the demand. So, a platform only for the exchange of service doesn’t seem that useful.
+
+The data revealed a notable disparity, with 160 desired services compared to only 66 offered services. Additionally, some responses indicated unclear ideas about services to offer, such as ‘volunteering,’ or informal assistance services, like career coaching and support with language in bureaucratic tasks. This suggests that establishing a platform solely for exchanging services among Brazilian women may encounter obstacles due to the limited supply.
+
 ### Conclusions
 
 This comprehensive analysis, grounded in a survey with 156 responses, highlights promising prospects for a dedicated tool facilitating service exchange among Brazilian women in Germany. Key considerations involve overcoming language barriers and tailoring services to match high-demand categories such as health and aesthetics. Incorporating unique attributes desired by the community is pivotal for the success of the platform.
 
 While acknowledging the value of understanding demographic composition, including previous foreign residences, the focus shifts towards the observed disparity between desired and offered services. The analysis suggests that the careful alignment of services with community preferences is paramount, and strategies should be tailored to meet the specific needs of Brazilian women in Germany.
+
+The service offering does not seem to be enough to move a specific app. So, we rethink the project guidelines to align with the needs of these women.
 
 ## Dashboards:
 
@@ -64,3 +71,7 @@ While acknowledging the value of understanding demographic composition, includin
 [![dashboard2](images/dashboard2_v2.png 'Dashboard2')](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/images/dashboard2_v2.png)
 
 Explore more about these women and uncover insights into the services they desire and offer. Gain a deeper understanding of their stories and challenges.
+
+## Empirical Analysis
+In this [post in Medium](https://medium.com/@karina.condeixa/beyond-borders-unveiling-service-desires-of-brazilian-women-in-germany-feb8d691284b), I performed a detailed empirical analysis for a general public, covering a non-technical audience.
+
