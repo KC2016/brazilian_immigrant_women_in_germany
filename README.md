@@ -1,13 +1,13 @@
 # Brazilian Immigrant Women in Germany: Descriptive Analysis and Data Visualization :brazil: :de:
 
 
-A data analysis project focused on Brazilian immigrant women in Germany. This project delves into the profiles, preferences, and services desired and offered by this unique demographic. In collaboration with Ligia Fascioni, a UX designer, I present a comprehensive examination based on a dataset derived from a survey conducted between 3/12/2023 and 12/12/2023.
+A data analysis project focused on Brazilian immigrant women in Germany. This project delves into the profiles, preferences, and services desired and offered by this unique demographic. In collaboration with Ligia Fascioni, a UX designer, I present a comprehensive examination based on a dataset derived from a survey.
 
 ### Purpose
 The primary objective of this analysis is to delve into the preferences and requirements of Brazilian women in Germany concerning services. By categorizing and comparing the desired and offered services, our aim is to identify potential gaps and alignments. The ultimate goal is to assess the viability of creating a dedicated tool, such as an app or portal, that could facilitate the exchange of services among this community.
 
 ### Method for data retrieval
-The dataset was curated through a meticulous reading and classification of responses to a 14-question survey distributed via Google Form. Responses were collected through LinkedIn posts, WhatsApp groups, and collaboration with relevant organizations.The questions are ilustrated in the end of this document.
+The dataset was curated through a meticulous reading and classification of responses to a 14-question survey conducted between 3/12/2023 and 12/12/2023. It was distributed via Google Form through LinkedIn posts, WhatsApp groups, and collaboration with relevant organizations.The questions are ilustrated in the end of this document.
 
 ### Approach
 This analysis involves data cleaning, wrangling, and classification, with a particular focus on the challenges posed by open-ended responses. I utilized tools such as Google Sheets, Excel, and Python (Pandas in [Jupyter Notebook](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/jupyter_notebook)) for efficient data manipulation and visualization.
@@ -77,7 +77,6 @@ The insights presented in this article are derived from a survey conducted on a 
 ## Empirical Analysis
 In this [post in Medium](https://medium.com/@karina.condeixa/beyond-borders-unveiling-service-desires-of-brazilian-women-in-germany-feb8d691284b), I performed a detailed empirical analysis for a general public, covering a non-technical audience.
 
-___
 ___
 
 ### Questions of the survey:
@@ -154,5 +153,4 @@ ___
 
 #### Fique à vontade para fazer sugestões e comentários adicionais! Pode ser um desabafo, algo sobre seus sentimentos, o que você quiser!
 
-___
 ___
