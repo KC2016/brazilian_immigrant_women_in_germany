@@ -8,8 +8,8 @@ Welcome to the data analysis project focused on Brazilian immigrant women in Ger
 The primary objective of this analysis is to delve into the preferences and requirements of Brazilian women in Germany concerning services. By categorizing and comparing the desired and offered services, our aim is to identify potential gaps and alignments. The ultimate goal is to assess the viability of creating a dedicated tool, such as an app or portal, that could facilitate the exchange of services among this community.
 
 
-### Method for ataset retrieval
-The dataset was curated through a meticulous reading and classification of responses to a 14-question survey distributed via Google Form. Responses were collected through LinkedIn posts, WhatsApp groups, and collaboration with relevant organizations.The questions are ilustrated in the end.
+### Method for data retrieval
+The dataset was curated through a meticulous reading and classification of responses to a 14-question survey distributed via Google Form. Responses were collected through LinkedIn posts, WhatsApp groups, and collaboration with relevant organizations.The questions are ilustrated in the end of this document.
 
 ### Approach
 This analysis involves data cleaning, wrangling, and classification, with a particular focus on the challenges posed by open-ended responses. I utilized tools such as Google Sheets, Excel, and Python (Pandas in [Jupyter Notebook](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/jupyter_notebook)) for efficient data manipulation and visualization.
@@ -149,6 +149,7 @@ ___
 - Brasileiras na Alemanha
 - Encontro de Mulheres da Língua Portuguesa
 - Ramifica
+- Outra
 
 #### Você acredita que se existisse algum tipo de portal ou aplicativo que conectasse a comunidade brasileira para divulgação de produtos/serviços/projetos VOLTADOS PARA MULHERES ajudaria na sua vida aqui na Alemanha de alguma forma? Por quê?
 
