@@ -1,12 +1,10 @@
 # Brazilian Immigrant Women in Germany: Descriptive Analysis and Data Visualization :brazil: :de:
 
 
-Welcome to the data analysis project focused on Brazilian immigrant women in Germany. This project delves into the profiles, preferences, and services desired and offered by this unique demographic. In collaboration with Ligia Fascioni, a UX designer, I present a comprehensive examination based on a dataset derived from a survey conducted between 3/12/2024 and 12/12/2024.
-
+A data analysis project focused on Brazilian immigrant women in Germany. This project delves into the profiles, preferences, and services desired and offered by this unique demographic. In collaboration with Ligia Fascioni, a UX designer, I present a comprehensive examination based on a dataset derived from a survey conducted between 3/12/2023 and 12/12/2023.
 
 ### Purpose
 The primary objective of this analysis is to delve into the preferences and requirements of Brazilian women in Germany concerning services. By categorizing and comparing the desired and offered services, our aim is to identify potential gaps and alignments. The ultimate goal is to assess the viability of creating a dedicated tool, such as an app or portal, that could facilitate the exchange of services among this community.
-
 
 ### Method for data retrieval
 The dataset was curated through a meticulous reading and classification of responses to a 14-question survey distributed via Google Form. Responses were collected through LinkedIn posts, WhatsApp groups, and collaboration with relevant organizations.The questions are ilustrated in the end of this document.
@@ -72,7 +70,7 @@ The service offering does not seem to be enough to move a specific app. So, we r
 
 Explore more about these women and uncover insights into the services they desire and offer. Gain a deeper understanding of their stories and challenges.
 
-## Note on Data Representativeness:
+## Note on Data Representativeness
 
 The insights presented in this article are derived from a survey conducted on a sample of 156 Brazilian women in Germany. It’s crucial to acknowledge that this sample, while offering valuable perspectives, may not be fully representative of the entire Brazilian female immigrant population in the country. The presence of biases is acknowledged, and these findings should not be construed as official statistics. Rather, they provide a glimpse into the experiences and preferences of a specific group within the broader community. For a comprehensive understanding, further research with a more diverse and extensive sample would be necessary.
 
@@ -80,6 +78,8 @@ The insights presented in this article are derived from a survey conducted on a 
 In this [post in Medium](https://medium.com/@karina.condeixa/beyond-borders-unveiling-service-desires-of-brazilian-women-in-germany-feb8d691284b), I performed a detailed empirical analysis for a general public, covering a non-technical audience.
 
 ___
+___
+
 ### Questions of the survey:
 
 #### Qual o motivo de ter se mudado para a Alemanha?
@@ -154,3 +154,6 @@ ___
 #### Você acredita que se existisse algum tipo de portal ou aplicativo que conectasse a comunidade brasileira para divulgação de produtos/serviços/projetos VOLTADOS PARA MULHERES ajudaria na sua vida aqui na Alemanha de alguma forma? Por quê?
 
 #### Fique à vontade para fazer sugestões e comentários adicionais! Pode ser um desabafo, algo sobre seus sentimentos, o que você quiser!
+
+___
+___
