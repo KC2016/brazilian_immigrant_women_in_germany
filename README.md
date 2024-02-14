@@ -82,13 +82,13 @@ ___
 ## References
 
 Destatis: Total Brazilians in Germany 31.12.2022: 55.710 (63.3% being women) -
-[website](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html#478804) - [Excel spreadsheet](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Publikationen/Downloads-Migration/statistischer-bericht-auslaend-bevoelkerung-2010200227005.html)
+[Website](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html#478804) - [Excel spreadsheet](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Publikationen/Downloads-Migration/statistischer-bericht-auslaend-bevoelkerung-2010200227005.html)
 
 
 Relatório estatístico 2022: survey by the Ministry of Foreign Affairs on Brazilian communities abroad - [Source](https://www.gov.br/mre/pt-br/assuntos/portal-consular/comunidade-brasileira-no-exterior-2013-estatisticas-2022)
 
 
-Paper: Brasileiros na Alemanha: motivações, perfil dos imigrantes e questões para debate[Source](https://www.cepese.pt/portal/pt/publicacoes/obras/populacao-e-sociedade-n-o-38/brasileiros-na-alemanha-motivacoes-perfil-dos-imigrantes-e-questoes-para-debate)
+Paper: Brasileiros na Alemanha: motivações, perfil dos imigrantes e questões para debate - [Source](https://www.cepese.pt/portal/pt/publicacoes/obras/populacao-e-sociedade-n-o-38/brasileiros-na-alemanha-motivacoes-perfil-dos-imigrantes-e-questoes-para-debate)
 
 
 Paper: Relatório de Pesquisa: Perfil dos brasileiros na Alemanha - [Source](https://mpeinternacional.uff.br/wp-content/uploads/sites/53/2020/04/Relatório-de-pesquisa-Alemanha_VFinal.pdf)
@@ -100,7 +100,7 @@ Paper: Os projetos migratórios de Brasileiras/os na Alemanha no século XXI e
 Paper: FEIJó, Glauco Vaz. Retratos do Brasil na Alemanha: 30 anos de imigração. In: I Congresso Internacional sobre Migração e Diáspora Acadêmica Brasileira - Guimarães, Portugal, 2022. - [Source](https://doity.com.br/anais/cimdab2022/trabalho/236191)
 
 
-Vundeszentrale für politische Bildung, Ausländische Bevölkerung nach Staatsangehörigkeit - [Source](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/61631/auslaendische-bevoelkerung-nach-staatsangehoerigkeit/)
+Bundeszentrale für politische Bildung, Ausländische Bevölkerung nach Staatsangehörigkeit - [Source](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/61631/auslaendische-bevoelkerung-nach-staatsangehoerigkeit/)
 
 
 Wido Geis-Thöne, Zuwanderung aus Lateinamerika,
