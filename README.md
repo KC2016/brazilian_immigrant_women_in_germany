@@ -81,7 +81,7 @@ ___
 
 ## References
 
-Destatis: Total Brazilians in Germany 31.12.2022: 55.710 (63.3% being women) -
+Destatis, Statistischer Bericht - Ausländische Bevölkerung 2022 -
 [Website](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html#478804) - [Excel spreadsheet](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Publikationen/Downloads-Migration/statistischer-bericht-auslaend-bevoelkerung-2010200227005.html)
 
 
