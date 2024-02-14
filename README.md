@@ -7,7 +7,7 @@ A data analysis project focused on Brazilian immigrant women in Germany. This pr
 The primary objective of this analysis is to delve into the preferences and requirements of Brazilian women in Germany concerning services. By categorizing and comparing the desired and offered services, our aim is to identify potential gaps and alignments. The ultimate goal is to assess the viability of creating a dedicated tool, such as an app or portal, that could facilitate the exchange of services among this community.
 
 ### Method for data retrieval
-The dataset was curated through a meticulous reading and classification of responses to a 14-question survey conducted between 3/12/2023 and 12/12/2023. It was distributed via Google Form through LinkedIn posts, WhatsApp groups, and collaboration with relevant organizations.The questions are ilustrated in the end of this document.
+The dataset was curated through a meticulous reading and classification of responses to a 14-question survey conducted between 3/12/2023 and 12/12/2023. It was distributed via Google Form through LinkedIn posts, WhatsApp groups, and collaboration with relevant organizations.The questions are ilustrated in the end of this document, berore references.
 
 ### Approach
 This analysis involves data cleaning, wrangling, and classification, with a particular focus on the challenges posed by open-ended responses. I utilized tools such as Google Sheets, Excel, and Python (Pandas in [Jupyter Notebook](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/jupyter_notebook)) for efficient data manipulation and visualization.
@@ -72,10 +72,44 @@ Explore more about these women and uncover insights into the services they desir
 
 ## Note on Data Representativeness
 
-The insights presented in this article are derived from a survey conducted on a sample of 156 Brazilian women in Germany. It’s crucial to acknowledge that this sample, while offering valuable perspectives, may not be fully representative of the entire Brazilian female immigrant population in the country. The presence of biases is acknowledged, and these findings should not be construed as official statistics. Rather, they provide a glimpse into the experiences and preferences of a specific group within the broader community. For a comprehensive understanding, further research with a more diverse and extensive sample would be necessary.
+The insights presented in this article are derived from a survey conducted on a sample of 156 Brazilian women in Germany. It’s crucial to acknowledge that this small sample, while offering valuable perspectives, may not be fully representative of the entire Brazilian female immigrant population in the country. The presence of biases is acknowledged, and these findings should not be construed as official statistics. Rather, they provide a glimpse into the experiences and preferences of a specific grsoup within the broader community. For a comprehensive understanding, further research with a more diverse and extensive sample would be necessary.
 
 ## Empirical Analysis
-In this [post in Medium](https://medium.com/@karina.condeixa/beyond-borders-unveiling-service-desires-of-brazilian-women-in-germany-feb8d691284b), I performed a detailed empirical analysis for a general public, covering a non-technical audience.
+In this [post in Medium](https://medium.com/@karina.condeixa/beyond-borders-unveiling-service-desires-of-brazilian-women-in-germany-feb8d691284b), I performed a detailed empirical analysis with personal thoughts.
+
+___
+
+## References
+
+Destatis: Total Brazilians in Germany 31.12.2022: 55.710 (63.3% being women) -
+[website](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html#478804) - [Excel spreadsheet](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Publikationen/Downloads-Migration/statistischer-bericht-auslaend-bevoelkerung-2010200227005.html)
+
+
+Relatório estatístico 2022: survey by the Ministry of Foreign Affairs on Brazilian communities abroad - [Source](https://www.gov.br/mre/pt-br/assuntos/portal-consular/comunidade-brasileira-no-exterior-2013-estatisticas-2022)
+
+
+Paper: Brasileiros na Alemanha: motivações, perfil dos imigrantes e questões para debate[Source](https://www.cepese.pt/portal/pt/publicacoes/obras/populacao-e-sociedade-n-o-38/brasileiros-na-alemanha-motivacoes-perfil-dos-imigrantes-e-questoes-para-debate)
+
+
+Paper: Relatório de Pesquisa: Perfil dos brasileiros na Alemanha - [Source](https://mpeinternacional.uff.br/wp-content/uploads/sites/53/2020/04/Relatório-de-pesquisa-Alemanha_VFinal.pdf)
+
+
+Paper: Os projetos migratórios de Brasileiras/os na Alemanha no século XXI e as configurações de famílias transnacionais - [Source](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-tdXDz5mDAxXa9bsIHYtpDTsQFnoECBkQAQ&url=https%3A%2F%2Fperiodicos.unesc.net%2Fojs%2Findex.php%2FRDSD%2Farticle%2Fdownload%2F7852%2F6675%2F21370&usg=AOvVaw0Fs4-T-hclyK-vy5HIDqvk&opi=89978449)
+
+
+Paper: FEIJó, Glauco Vaz. Retratos do Brasil na Alemanha: 30 anos de imigração. In: I Congresso Internacional sobre Migração e Diáspora Acadêmica Brasileira - Guimarães, Portugal, 2022. - [Source](https://doity.com.br/anais/cimdab2022/trabalho/236191)
+
+
+Vundeszentrale für politische Bildung, Ausländische Bevölkerung nach Staatsangehörigkeit - [Source](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/61631/auslaendische-bevoelkerung-nach-staatsangehoerigkeit/)
+
+
+Wido Geis-Thöne, Zuwanderung aus Lateinamerika,
+Köln, 25.04.2023, IW-Report 25/2023 - [Source](https://www.iwkoeln.de/fileadmin/user_upload/Studien/Report/PDF/2023/IW-Report_2023-Zuwanderung-Lateinamerika.pdf)
+
+
+Statista, Anzahl der Ausländer in Deutschland nach Herkunftsland von 2020 bis 2022 - [Source](https://de.statista.com/statistik/daten/studie/1221/umfrage/anzahl-der-auslaender-in-deutschland-nach-herkunftsland/)
+
+
 
 ___
 
