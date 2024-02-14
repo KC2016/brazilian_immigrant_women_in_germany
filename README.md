@@ -4,10 +4,10 @@
 A data analysis project focused on Brazilian immigrant women in Germany. This project delves into the profiles, preferences, and services desired and offered by this unique demographic. In collaboration with Ligia Fascioni, a UX designer, I present a comprehensive examination based on a dataset derived from a survey.
 
 ### Purpose
-The primary objective of this analysis is to delve into the preferences and requirements of Brazilian women in Germany concerning services. By categorizing and comparing the desired and offered services, our aim is to identify potential gaps and alignments. The ultimate goal is to assess the viability of creating a dedicated tool, such as an app or portal, that could facilitate the exchange of services among this community.
+The primary objective of this analysis is to find out if a service platform would be useful for the community by delving into the preferences and requirements of Brazilian women in Germany concerning services and categorizing and comparing the desired and offered services. Our aim is to identify potential gaps and alignments to assess the viability of creating a dedicated tool, such as an app or portal, that could facilitate the exchange of services among this community.
 
 ### Method for data retrieval
-The dataset was curated through a meticulous reading and classification of responses to a 14-question survey conducted between 3/12/2023 and 12/12/2023. It was distributed via Google Form through LinkedIn posts, WhatsApp groups, and collaboration with relevant organizations.The questions are ilustrated in the end of this document, berore references.
+The dataset was curated through a meticulous reading and classification of responses to a 13-question anonymous survey conducted between 3/12/2023 and 12/12/2023. It was distributed via Google Form through LinkedIn posts, WhatsApp groups, and collaboration with relevant organizations.The questions are ilustrated in the end of this document, berore references.
 
 ### Approach
 This analysis involves data cleaning, wrangling, and classification, with a particular focus on the challenges posed by open-ended responses. I utilized tools such as Google Sheets, Excel, and Python (Pandas in [Jupyter Notebook](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/jupyter_notebook)) for efficient data manipulation and visualization.
