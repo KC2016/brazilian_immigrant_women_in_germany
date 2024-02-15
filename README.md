@@ -85,9 +85,9 @@ ___
 
 2. **Ministry of Foreign Affairs (2022).** *Relatório estatístico 2022: survey by the Ministry of Foreign Affairs on Brazilian communities abroad.* [Source](https://www.gov.br/mre/pt-br/assuntos/portal-consular/comunidade-brasileira-no-exterior-2013-estatisticas-2022)
 
-3. **Aurélio José dos Santos, Eduardo Picanço Cruz, Roberto Pessoa de Queiroz Falcão (2022).** *Brasileiros na Alemanha: motivações, perfil dos imigrantes e questões para debate.* [Source](https://www.cepese.pt/portal/pt/publicacoes/obras/populacao-e-sociedade-n-o-38/brasileiros-na-alemanha-motivacoes-perfil-dos-imigrantes-e-questoes-para-debate)
+3. **Cruz, duardo Picanço; Falcão, Roberto Pessoa de Queiroz; Santos, Aurélio José dos (2022).** *Brasileiros na Alemanha: motivações, perfil dos imigrantes e questões para debate.* [Source](https://www.cepese.pt/portal/pt/publicacoes/obras/populacao-e-sociedade-n-o-38/brasileiros-na-alemanha-motivacoes-perfil-dos-imigrantes-e-questoes-para-debate)
 
-4. **Cruz, Eduardo Picanço; Falcao, Roberto Pessoa de Queiroz; Araujo, Georgia Mariano de Araujo (2020).** *Relatório de Pesquisa: Perfil dos brasileiros na Alemanha.* [Source](https://mpeinternacional.uff.br/wp-content/uploads/sites/53/2020/04/Relatório-de-pesquisa-Alemanha_VFinal.pdf)
+4. **Cruz, Eduardo Picanço; Falcão, Roberto Pessoa de Queiroz; Araujo, Georgia Mariano de (2020).** *Relatório de Pesquisa: Perfil dos brasileiros na Alemanha.* [Source](https://mpeinternacional.uff.br/wp-content/uploads/sites/53/2020/04/Relatório-de-pesquisa-Alemanha_VFinal.pdf)
 
 5. **Assis, Gláucia de Oliveira (2023).** *Os projetos migratórios de Brasileiras/os na Alemanha no século XXI e as configurações de famílias transnacionais. Revista desenvolvimento economico em debate* [Source](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-tdXDz5mDAxXa9bsIHYtpDTsQFnoECBkQAQ&url=https%3A%2F%2Fperiodicos.unesc.net%2Fojs%2Findex.php%2FRDSD%2Farticle%2Fdownload%2F7852%2F6675%2F21370&usg=AOvVaw0Fs4-T-hclyK-vy5HIDqvk&opi=89978449)
 
