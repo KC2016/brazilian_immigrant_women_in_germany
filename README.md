@@ -10,7 +10,7 @@ The primary objective of this analysis is to find out if a service platform woul
 The dataset was curated through a meticulous reading and classification of responses to a 13-question anonymous survey conducted between 3/12/2023 and 12/12/2023. It was distributed via Google Form through LinkedIn posts, WhatsApp groups, and collaboration with relevant organizations.The questions are ilustrated in the end of this document.
 
 ### Approach
-This analysis involves data cleaning, wrangling, and classification, with a particular focus on the challenges posed by open-ended responses. I utilized tools such as Google Sheets, Excel, and Python (Pandas in [Jupyter Notebook](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/jupyter_notebook)) for efficient data manipulation and visualization.
+This analysis involves data cleaning, wrangling, and classification, with a particular focus on the challenges posed by open-ended responses. I utilized tools such as Google Sheets, Excel, and Python (Pandas in Jupyter Notebook) for efficient data manipulation and visualization.
 
 The services were categorized into 19 [groups](https://github.com/KC2016/brazilian_immigrant_women_in_germany/blob/main/services_categories.txt), and the rates of desired categories were compared with those of the offered categories.
 
