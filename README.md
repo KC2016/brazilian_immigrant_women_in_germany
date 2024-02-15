@@ -79,36 +79,29 @@ In this [post in Medium](https://medium.com/@karina.condeixa/beyond-borders-unve
 
 ___
 
-## References
+## References for contextualization
 
-Destatis, Statistischer Bericht - Ausländische Bevölkerung 2022 -
-[Website](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html#478804) - [Excel spreadsheet](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Publikationen/Downloads-Migration/statistischer-bericht-auslaend-bevoelkerung-2010200227005.html)
+1. **Destatis (2022).** *Statistischer Bericht - Ausländische Bevölkerung 2022.* [Online] Available at [Website](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungsstand/_inhalt.html#478804) and [Excel spreadsheet](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Publikationen/Downloads-Migration/statistischer-bericht-auslaend-bevoelkerung-2010200227005.html).
 
+2. **Ministry of Foreign Affairs (2022).** *Relatório estatístico 2022: survey by the Ministry of Foreign Affairs on Brazilian communities abroad.* [Source](https://www.gov.br/mre/pt-br/assuntos/portal-consular/comunidade-brasileira-no-exterior-2013-estatisticas-2022)
 
-Relatório estatístico 2022: survey by the Ministry of Foreign Affairs on Brazilian communities abroad - [Source](https://www.gov.br/mre/pt-br/assuntos/portal-consular/comunidade-brasileira-no-exterior-2013-estatisticas-2022)
+3. **Aurélio José dos Santos, Eduardo Picanço Cruz, Roberto Pessoa de Queiroz Falcão (2022).** *Brasileiros na Alemanha: motivações, perfil dos imigrantes e questões para debate.* [Source](https://www.cepese.pt/portal/pt/publicacoes/obras/populacao-e-sociedade-n-o-38/brasileiros-na-alemanha-motivacoes-perfil-dos-imigrantes-e-questoes-para-debate)
 
+4. **Cruz, Eduardo Picanço; Falcao, Roberto Pessoa de Queiroz; Araujo, Georgia Mariano de Araujo (2020).** *Relatório de Pesquisa: Perfil dos brasileiros na Alemanha.* [Source](https://mpeinternacional.uff.br/wp-content/uploads/sites/53/2020/04/Relatório-de-pesquisa-Alemanha_VFinal.pdf)
 
-Paper: Brasileiros na Alemanha: motivações, perfil dos imigrantes e questões para debate - [Source](https://www.cepese.pt/portal/pt/publicacoes/obras/populacao-e-sociedade-n-o-38/brasileiros-na-alemanha-motivacoes-perfil-dos-imigrantes-e-questoes-para-debate)
+5. **Assis, Gláucia de Oliveira (2023).** *Os projetos migratórios de Brasileiras/os na Alemanha no século XXI e as configurações de famílias transnacionais. Revista desenvolvimento economico em debate* [Source](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-tdXDz5mDAxXa9bsIHYtpDTsQFnoECBkQAQ&url=https%3A%2F%2Fperiodicos.unesc.net%2Fojs%2Findex.php%2FRDSD%2Farticle%2Fdownload%2F7852%2F6675%2F21370&usg=AOvVaw0Fs4-T-hclyK-vy5HIDqvk&opi=89978449)
 
+6. **Feijó, Glauco Vaz (2022).** *Retratos do Brasil na Alemanha: 30 anos de imigração.* In: I Congresso Internacional sobre Migração e Diáspora Acadêmica Brasileira - Guimarães, Portugal, 2022. [Source](https://doity.com.br/anais/cimdab2022/trabalho/236191)
 
-Paper: Relatório de Pesquisa: Perfil dos brasileiros na Alemanha - [Source](https://mpeinternacional.uff.br/wp-content/uploads/sites/53/2020/04/Relatório-de-pesquisa-Alemanha_VFinal.pdf)
+7. **Bundeszentrale für politische Bildung (2022).** *Ausländische Bevölkerung nach Staatsangehörigkeit.* [Source](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/61631/auslaendische-bevoelkerung-nach-staatsangehoerigkeit/)
 
-
-Paper: Os projetos migratórios de Brasileiras/os na Alemanha no século XXI e as configurações de famílias transnacionais - [Source](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-tdXDz5mDAxXa9bsIHYtpDTsQFnoECBkQAQ&url=https%3A%2F%2Fperiodicos.unesc.net%2Fojs%2Findex.php%2FRDSD%2Farticle%2Fdownload%2F7852%2F6675%2F21370&usg=AOvVaw0Fs4-T-hclyK-vy5HIDqvk&opi=89978449)
-
-
-Paper: FEIJó, Glauco Vaz. Retratos do Brasil na Alemanha: 30 anos de imigração. In: I Congresso Internacional sobre Migração e Diáspora Acadêmica Brasileira - Guimarães, Portugal, 2022. - [Source](https://doity.com.br/anais/cimdab2022/trabalho/236191)
+8. **Geis-Thöne, Wido (2023).** *Zuwanderung aus Lateinamerika.* Köln, 25.04.2023, IW-Report 25/2023. [Source](https://www.iwkoeln.de/fileadmin/user_upload/Studien/Report/PDF/2023/IW-Report_2023-Zuwanderung-Lateinamerika.pdf)
 
 
-Bundeszentrale für politische Bildung, Ausländische Bevölkerung nach Staatsangehörigkeit - [Source](https://www.bpb.de/kurz-knapp/zahlen-und-fakten/soziale-situation-in-deutschland/61631/auslaendische-bevoelkerung-nach-staatsangehoerigkeit/)
+9. **Ministério das relações exteriores (2021).** *Comunidade brasileira no exterior: extimativas referentes ao ano de 2020, Junho de 2021.* [Source](https://linguabrasilis.de/wp-content/uploads/ComunidadeBrasileira2020.pdf)
 
-
-Wido Geis-Thöne, Zuwanderung aus Lateinamerika,
-Köln, 25.04.2023, IW-Report 25/2023 - [Source](https://www.iwkoeln.de/fileadmin/user_upload/Studien/Report/PDF/2023/IW-Report_2023-Zuwanderung-Lateinamerika.pdf)
-
-Ministério das relações exteriores. Comunidade brasileira no exterior: extimativas referentes ao ano de 2020, Junho de 2021 - [Source](https://linguabrasilis.de/wp-content/uploads/ComunidadeBrasileira2020.pdf)
-
-Statista, Anzahl der Ausländer in Deutschland nach Herkunftsland von 2020 bis 2022 - [Source](https://de.statista.com/statistik/daten/studie/1221/umfrage/anzahl-der-auslaender-in-deutschland-nach-herkunftsland/)
+10. **Statista (2023).** *Anzahl der Ausländer in Deutschland nach Herkunftsland von 2020 bis 2022.* [Source](https://de.statista.com/statistik/daten/studie/1221/umfrage/anzahl-der-auslaender-in-deutschland-nach-herkunftsland/)
+s
 
 ___
 
