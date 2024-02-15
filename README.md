@@ -114,7 +114,7 @@ ___
 
 ### Questions of the survey:
 
-#### Qual o motivo de ter se mudado para a Alemanha?s
+#### Qual o motivo de ter se mudado para a Alemanha?
 - Trabalho
 - Cônjuge/namorado(a)
 - Família (pais, filhos)
