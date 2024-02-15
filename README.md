@@ -119,7 +119,7 @@ ___
 - Cônjuge/namorado(a)
 - Família (pais, filhos)
 - Busca de novas oportunidades
-- Other
+- Outro
 
 #### Há quantos anos você está na Alemanha?
 - menos de 1 ano
