@@ -106,7 +106,7 @@ Bundeszentrale für politische Bildung, Ausländische Bevölkerung nach Staatsan
 Wido Geis-Thöne, Zuwanderung aus Lateinamerika,
 Köln, 25.04.2023, IW-Report 25/2023 - [Source](https://www.iwkoeln.de/fileadmin/user_upload/Studien/Report/PDF/2023/IW-Report_2023-Zuwanderung-Lateinamerika.pdf)
 
-Ministério das relações exteriores. Comunidade brasileira no exterior: extimativas referentes ao ano de 202, Junho de 2021 - [Source](https://linguabrasilis.de/wp-content/uploads/ComunidadeBrasileira2020.pdf)
+Ministério das relações exteriores. Comunidade brasileira no exterior: extimativas referentes ao ano de 2020, Junho de 2021 - [Source](https://linguabrasilis.de/wp-content/uploads/ComunidadeBrasileira2020.pdf)
 
 Statista, Anzahl der Ausländer in Deutschland nach Herkunftsland von 2020 bis 2022 - [Source](https://de.statista.com/statistik/daten/studie/1221/umfrage/anzahl-der-auslaender-in-deutschland-nach-herkunftsland/)
 
