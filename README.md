@@ -101,7 +101,7 @@ ___
 9. **Ministério das relações exteriores (2021).** *Comunidade brasileira no exterior: extimativas referentes ao ano de 2020, Junho de 2021.* [Source](https://linguabrasilis.de/wp-content/uploads/ComunidadeBrasileira2020.pdf)
 
 10. **Statista (2023).** *Anzahl der Ausländer in Deutschland nach Herkunftsland von 2020 bis 2022.* [Source](https://de.statista.com/statistik/daten/studie/1221/umfrage/anzahl-der-auslaender-in-deutschland-nach-herkunftsland/)
-s
+
 
 ___
 
