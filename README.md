@@ -72,7 +72,7 @@ Explore more about these women and uncover insights into the services they desir
 
 ## Note on Data Representativeness
 
-The insights presented in this article are derived from a survey conducted on a sample of 156 Brazilian women in Germany. It’s crucial to acknowledge that this small sample, while offering valuable perspectives, may not be fully representative of the entire Brazilian female immigrant population in the country. The presence of biases is acknowledged, and these findings should not be construed as official statistics. Rather, they provide a glimpse into the experiences and preferences of a specific grsoup within the broader community. For a comprehensive understanding, further research with a more diverse and extensive sample would be necessary.
+The insights presented in this article are derived from a survey conducted on a sample of 156 Brazilian women in Germany. It’s crucial to acknowledge that this small sample, while offering valuable perspectives, may not be fully representative of the entire Brazilian female immigrant population in the country. The presence of biases is acknowledged, and these findings should not be construed as official statistics. Rather, they provide a glimpse into the experiences and preferences of a specific group within the broader community. For a comprehensive understanding, further research with a more diverse and extensive sample would be necessary.
 
 ## Empirical Analysis
 In this [post in Medium](https://medium.com/@karina.condeixa/beyond-borders-unveiling-service-desires-of-brazilian-women-in-germany-feb8d691284b), I performed a detailed empirical analysis with personal thoughts.
@@ -89,7 +89,7 @@ ___
 
 4. **Cruz, Eduardo Picanço; Falcão, Roberto Pessoa de Queiroz; Araujo, Georgia Mariano de (2020).** *Relatório de Pesquisa: Perfil dos brasileiros na Alemanha.* [Source](https://mpeinternacional.uff.br/wp-content/uploads/sites/53/2020/04/Relatório-de-pesquisa-Alemanha_VFinal.pdf)
 
-5. **Assis, Gláucia de Oliveira (2023).** *Os projetos migratórios de Brasileiras/os na Alemanha no século XXI e as configurações de famílias transnacionais. Revista desenvolvimento economico em debate* [Source](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-tdXDz5mDAxXa9bsIHYtpDTsQFnoECBkQAQ&url=https%3A%2F%2Fperiodicos.unesc.net%2Fojs%2Findex.php%2FRDSD%2Farticle%2Fdownload%2F7852%2F6675%2F21370&usg=AOvVaw0Fs4-T-hclyK-vy5HIDqvk&opi=89978449)
+5. **Assis, Gláucia de Oliveira (2023).** *Os projetos migratórios de Brasileiras/os na Alemanha no século XXI e as configurações de famílias transnacionais. Revista desenvolvimento economico em debate.* [Source](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-tdXDz5mDAxXa9bsIHYtpDTsQFnoECBkQAQ&url=https%3A%2F%2Fperiodicos.unesc.net%2Fojs%2Findex.php%2FRDSD%2Farticle%2Fdownload%2F7852%2F6675%2F21370&usg=AOvVaw0Fs4-T-hclyK-vy5HIDqvk&opi=89978449)
 
 6. **Feijó, Glauco Vaz (2022).** *Retratos do Brasil na Alemanha: 30 anos de imigração.* In: I Congresso Internacional sobre Migração e Diáspora Acadêmica Brasileira - Guimarães, Portugal, 2022. [Source](https://doity.com.br/anais/cimdab2022/trabalho/236191)
 
